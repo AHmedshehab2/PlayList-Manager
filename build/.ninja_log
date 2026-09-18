@@ -1,0 +1,18 @@
+# ninja log v7
+14	1254	8114367757086952	MusicPlaylistManager_autogen/timestamp	36fa1c41d245f6e0
+14	1254	8114367757086952	MusicPlaylistManager_autogen/mocs_compilation.cpp	36fa1c41d245f6e0
+14	1254	8114367757086952	F:/Universty/Level 2/Sem 1/OOP/assign1_yousef mohamed shaker 20246136_ahmed mohamed shehab 20246009/build/MusicPlaylistManager_autogen/timestamp	36fa1c41d245f6e0
+14	1254	8114367757086952	F:/Universty/Level 2/Sem 1/OOP/assign1_yousef mohamed shaker 20246136_ahmed mohamed shehab 20246009/build/MusicPlaylistManager_autogen/mocs_compilation.cpp	36fa1c41d245f6e0
+1266	2182	8114367758192281	CMakeFiles/MusicPlaylistManager.dir/musictrack.cpp.obj	ed6fb59d4effd843
+1272	3990	8114367758255361	CMakeFiles/MusicPlaylistManager.dir/gui/main_qt.cpp.obj	e4d9c856c39adfbf
+1259	4080	8114367758132071	CMakeFiles/MusicPlaylistManager.dir/MusicPlaylistManager_autogen/mocs_compilation.cpp.obj	158d784c8b49ff9b
+1286	4230	8114367758381979	CMakeFiles/MusicPlaylistManager.dir/gui/addsongdialog.cpp.obj	3d53dfbb94225117
+1293	4280	8114367758432101	CMakeFiles/MusicPlaylistManager.dir/gui/selecttwodialog.cpp.obj	ebf2ca95692ae706
+19	752	8114368008148007	MusicPlaylistManager_autogen/timestamp	36fa1c41d245f6e0
+19	752	8114368008148007	MusicPlaylistManager_autogen/mocs_compilation.cpp	36fa1c41d245f6e0
+19	752	8114368008148007	F:/Universty/Level 2/Sem 1/OOP/assign1_yousef mohamed shaker 20246136_ahmed mohamed shehab 20246009/build/MusicPlaylistManager_autogen/timestamp	36fa1c41d245f6e0
+19	752	8114368008148007	F:/Universty/Level 2/Sem 1/OOP/assign1_yousef mohamed shaker 20246136_ahmed mohamed shehab 20246009/build/MusicPlaylistManager_autogen/mocs_compilation.cpp	36fa1c41d245f6e0
+758	3053	8114368008818491	CMakeFiles/MusicPlaylistManager.dir/gui/main_qt.cpp.obj	e4d9c856c39adfbf
+753	3169	8114368008818491	CMakeFiles/MusicPlaylistManager.dir/MusicPlaylistManager_autogen/mocs_compilation.cpp.obj	158d784c8b49ff9b
+765	4169	8114368008935934	CMakeFiles/MusicPlaylistManager.dir/gui/mainwindow.cpp.obj	85fe1f729107e59e
+4169	4509	8114368042969014	MusicPlaylistManager.exe	4622313ce5db1209

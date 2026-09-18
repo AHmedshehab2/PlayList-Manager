@@ -1,0 +1,5 @@
+F:/Universty/Level 2/Sem 1/OOP/assign1_yousef mohamed shaker 20246136_ahmed mohamed shehab 20246009/build/CMakeFiles/MusicPlaylistManager.dir
+F:/Universty/Level 2/Sem 1/OOP/assign1_yousef mohamed shaker 20246136_ahmed mohamed shehab 20246009/build/CMakeFiles/edit_cache.dir
+F:/Universty/Level 2/Sem 1/OOP/assign1_yousef mohamed shaker 20246136_ahmed mohamed shehab 20246009/build/CMakeFiles/rebuild_cache.dir
+F:/Universty/Level 2/Sem 1/OOP/assign1_yousef mohamed shaker 20246136_ahmed mohamed shehab 20246009/build/CMakeFiles/MusicPlaylistManager_autogen_timestamp_deps.dir
+F:/Universty/Level 2/Sem 1/OOP/assign1_yousef mohamed shaker 20246136_ahmed mohamed shehab 20246009/build/CMakeFiles/MusicPlaylistManager_autogen.dir
