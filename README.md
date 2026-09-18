@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # PlayList-Manager
+
 Built a MusicTrack class managing a manually resized dynamic array of songs, implementing a copy constructor, destructor, and doubling-capacity resize strateg
-=======
+
+---
 # Music Playlist Manager
 
 A simple C++ music playlist manager with two interfaces:
@@ -68,4 +69,3 @@ This project demonstrates:
 - Qt widgets, layouts, dialogs, signals, and slots.
 - CMake automoc support for Qt classes using `Q_OBJECT`.
 - Separation between business logic and a graphical presentation layer.
->>>>>>> 53354f6 (Initial commit)
